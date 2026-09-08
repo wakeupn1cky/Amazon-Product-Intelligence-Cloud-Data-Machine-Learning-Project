@@ -29,3 +29,8 @@ Through this project, I gained practical exposure to:
 * Connecting data, machine learning, cloud storage, and an application into one workflow
 
 The main objective of the project was not simply to build a recommendation system, but to gain practical understanding of how a **cloud-based data and machine learning application is built from end to end**.
+## 📐 Project Architecture
+
+For a detailed explanation of the system architecture, data pipeline, machine learning workflow, and cloud integration:
+
+**[📖 View Architecture Documentation →](ARCHITECTURE.md)**
