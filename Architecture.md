@@ -184,7 +184,7 @@ AmazonProductIntelligence/
 │
 ├── app.py
 ├── README.md
-├── ARCHITECTURE.md
+├── Architecture.md
 ├── requirements.txt
 ├── snapshots
 │
