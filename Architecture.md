@@ -186,6 +186,7 @@ AmazonProductIntelligence/
 ├── README.md
 ├── ARCHITECTURE.md
 ├── requirements.txt
+├── snapshots
 │
 ├── models/
 │   ├── kmeans_model.pkl
