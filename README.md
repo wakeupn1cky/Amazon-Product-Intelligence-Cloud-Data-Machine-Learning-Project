@@ -33,4 +33,4 @@ The main objective of the project was not simply to build a recommendation syste
 
 For a detailed explanation of the system architecture, data pipeline, machine learning workflow, and cloud integration:
 
-**[📖 View Architecture Documentation →](ARCHITECTURE.md)**
+**[📖 View Architecture Documentation →](Architecture.md)**
