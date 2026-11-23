@@ -106,9 +106,7 @@ def normalize_price_range(low, high):
 @st.cache_data
 def load_data_from_azure():
 
-    connection_string = st.secrets[
-        "AZURE_STORAGE_CONNECTION_STRING"
-    ]
+    connection_string = "DefaultEndpointsProtocol=https;AccountName=amazonproductintel2026;AccountKey=AfSApJzn3HavPxseuiSDg933nBxD+gLBF15LCD6v6k2BYJRwoeITGTmpJrJtLzX0CJdeAQDF2iS0+AStdVT2iA==;EndpointSuffix=core.windows.net"
 
     blob_service_client = (
         BlobServiceClient
